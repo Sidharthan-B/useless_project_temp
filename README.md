@@ -8,26 +8,26 @@
 
 
 ### Team Members
-- Team Lead: Basil Joshua Reji - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Basil Joshua Reji - College of Engineering Trivandrum
+- Member 2: Mohammed Suhail - College of Engineering Trivandrum
+- Member 3: Sidharthan B - College of Engineering Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
+Spoilerringg is the alarm clock you didn’t know you’d hate to love! When the alarm goes off, it hits you with a spoiler question that you have to answer correctly to turn it off. Will you face the spoilers or endure the alarm?
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Waking up is too easy these days. What if you had to sacrifice your favorite show or movie’s plot twists to get out of bed?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Spoilerringg, the only alarm that spoils your favorite media if you don’t answer a question! Wake up, answer a spoiler question, and you’re free—unless you get it wrong!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Javascript
+- React Vite, Firebase
+- Firebase SDK
+- figma
 
 For Hardware:
 - [List main components]
@@ -46,13 +46,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](![WhatsApp Image 2024-11-02 at 23 20 36_674e5381](https://github.com/user-attachments/assets/8e5e9705-19a5-4e99-830f-e4fe86fea31c))
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](![WhatsApp Image 2024-11-02 at 23 22 30_adc17231](https://github.com/user-attachments/assets/6070a0f7-4b2a-4f08-b816-fe898a5493a9))
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](![WhatsApp Image 2024-11-02 at 23 22 46_25aed0a8](https://github.com/user-attachments/assets/53edeff7-45b4-4d57-9836-a0c5d9a7d246)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -80,7 +80,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://github.com/user-attachments/assets/bc0b314d-af26-47ec-975a-abfe0595ac85
 *Explain what the video demonstrates*
 
 # Additional Demos
