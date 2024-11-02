@@ -24,10 +24,10 @@ Spoilerringg, the only alarm that spoils your favorite media if you don’t answ
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Javascript
-- React Vite, Firebase
-- Firebase SDK
-- figma
+Languages used: JavaScript
+Frameworks used: React (Vite), Firebase
+Libraries used: Firebase SDK for database interactions
+Tools used: Figma (for UI design)
 
 For Hardware:
 - [List main components]
